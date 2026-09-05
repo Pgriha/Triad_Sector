@@ -22,7 +22,7 @@
       # - VendingMachineSnackGreen # Frontier: no food vendors, support local chefs
       # - VendingMachineSnackOrange # Frontier: no food vendors, support local chefs
       # - VendingMachineSnackTeal # Frontier: no food vendors, support local chefs
-      - VendingMachineSovietSoda
+      # - VendingMachineSovietSoda #Boda – Cheeburbr. ІдІ нахуй
       # - VendingMachineChang # Frontier: no food vendors, support local chefs
       # - VendingMachineDonut # Frontier: no food vendors, support local chefs
       - VendingMachineShamblersJuice

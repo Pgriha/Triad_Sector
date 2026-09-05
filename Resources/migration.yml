@@ -584,4 +584,7 @@ MuteToxinChemistryBottle: ChemistryBottleMuteToxin
 LeadChemistryBottle: ChemistryBottleLead
 ToxinChemistryBottle: ChemistryBottleToxin
 
+# 05.09.2026. Cheeburbr. Хай Іде нахуй
+VendingMachineSovietSoda: RandomVendingDrinks
+
 # Frontier: put Frontier-related migrations in nf_migration.yml. Thank you.
