@@ -15,7 +15,7 @@
       - state: inhand-right
   - type: EmitSoundOnPickup
     sound:
-      path: /Audio/_Starlight/Voice/Moth/moth_gasp.ogg # Душать бідось
+      path: /Audio/_Cheeburbr/Voice/Moth/moth_flap.ogg # moth_gasp.ogg в оригіналі
   - type: EmitSoundOnUse
     sound:
       path: /Audio/Voice/Moth/moth_chitter.ogg
