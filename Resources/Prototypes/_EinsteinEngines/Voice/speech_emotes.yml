@@ -9,6 +9,14 @@
     - BorgChassis
   chatTriggers:
   - sdeathgasp
+  - роботично видає передсмертний подих # Cheeburbr. До кінця прототипу
+  - роботично видають передсмертний подих
+  - роботично помирає
+  - роботично помирають
+  - роботично вмирає
+  - роботично вмирають
+  - роботично спочиває навіки
+  - роботично спочивають навіки
 
 - type: emote
   id: Whirr # uncategorized as it is generic - Mono, youre an idiot.
@@ -21,6 +29,9 @@
     - BorgChassis
   chatTriggers:
     - whirrs
+    - rattles
+    - шурхотить # Cheeburbr. До кінця прототипу
+    - шурхотять
 
 - type: emote
   id: Boop
@@ -33,3 +44,5 @@
     - BorgChassis
   chatTriggers:
   - boops
+  - бупає # Cheeburbr. До кінця прототипу
+  - бупають

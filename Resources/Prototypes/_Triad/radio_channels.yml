@@ -1,14 +1,14 @@
 - type: radioChannel
-  id: Nfsd # TDF channel
+  id: Nfsd # TDF channel. Cheeburbr. Triad Defense Force - Сили Оборони Тріади - СОТ
   name: chat-radio-tdf
-  keycode: 's'
+  keycode: 'о' # Оборона
   frequency: 1459
   color: "#FFD580"
 
 - type: radioChannel
   id: SolarianDirective
-  name: chat-radio-sd
-  keycode: 'k'
+  name: chat-radio-sd # Cheeburbr. Solarian Directive - Сонячна Деректива
+  keycode: 'д' # Деректива
   frequency: 1568
   color: "#6a6ad8aa"
   longRange: true # Temporary until there's an SD base with a telecomms console

@@ -16,6 +16,10 @@
     - trills
     - trilling
     - trilled
+    - трелить # Cheeburbr. До кінця прототипу
+    - трелять
+    - трелює
+    - трелюють
 
 - type: emote
   id: Warble
@@ -35,6 +39,8 @@
     - warbles
     - warbling
     - warbled
+    - тьохкає # Cheeburbr. До кінця прототипу
+    - тьохкають
 
 - type: emote
   id: Wurble
@@ -57,6 +63,10 @@
     - wurbles
     - wurbling
     - wurbled
+    - вурчить # Cheeburbr. До кінця прототипу
+    - вурчать
+    - воркоче
+    - воркочуть
 
 - type: emote # Mono
   id: Bagawk
@@ -76,3 +86,5 @@
     - bagawks
     - bawk
     - bawks
+    - кудахкає # Cheeburbr. До кінця прототипу
+    - кудахкають

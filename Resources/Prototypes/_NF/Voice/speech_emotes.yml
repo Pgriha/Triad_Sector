@@ -16,6 +16,12 @@
     - mutters
     - muttered
     - muttering
+    - бурмоче # Cheeburbr. До кінця прототипу
+    - бурмочуть
+    - гуркоче
+    - гуркочуть
+    - мимрить
+    - мимрикають
 
 - type: emote
   id: GoblinThroatSinging
@@ -36,6 +42,10 @@
     - sang
     - sung
     - singing
+    - співає # Cheeburbr. До кінця прототипу
+    - співають
+    - наспівує
+    - наспівають
 
 - type: emote
   id: Belch
@@ -56,3 +66,5 @@
     - belchs
     - burps
     - belches
+    - відригує # Cheeburbr. До кінця прототипу
+    - відригують

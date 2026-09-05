@@ -11,6 +11,17 @@ public sealed class LizardAccentSystem : EntitySystem
     private static readonly Regex RegexInternalX = new(@"(\w)x");
     private static readonly Regex RegexLowerEndX = new(@"\bx([\-|r|R]|\b)");
     private static readonly Regex RegexUpperEndX = new(@"\bX([\-|r|R]|\b)");
+    // Cheeburbr start. Локалізація
+    private static readonly Regex RegexLowerCyrillicS = new("с+");
+    private static readonly Regex RegexUpperCyrillicS = new("С+");
+    private static readonly Regex RegexLowerCyrillicSh = new("ш+");
+    private static readonly Regex RegexUpperCyrillicSh = new("Ш+");
+    private static readonly Regex RegexLowerCyrillicShch = new("щ+");
+    private static readonly Regex RegexUpperCyrillicShch = new("Щ+");
+    private static readonly Regex RegexLowerCyrillicZh = new("ж+");
+    private static readonly Regex RegexUpperCyrillicZh = new("Ж+");
+    // Cheeburbr end
+
     // Triad: soft c (before e/i/y) also hisses -- city -> ssity, nice -> nissse. Runs before the s+ pass
     // so the s it produces gets lengthened too. Hard c (cat, clone) is a /k/ sound and is left alone.
     private static readonly Regex RegexSoftC = new(@"c(?=[eiy])", RegexOptions.IgnoreCase);
@@ -37,6 +48,24 @@ public sealed class LizardAccentSystem : EntitySystem
         message = RegexLowerEndX.Replace(message, "ecks$1");
         // eckS
         message = RegexUpperEndX.Replace(message, "ECKS$1");
+        // Cheeburbr start. Локалізація
+        // сссупер
+        message = RegexLowerCyrillicS.Replace(message, "ссс");
+        // СССУПЕР
+        message = RegexUpperCyrillicS.Replace(message, "ССС");
+        // шшшипіти
+        message = RegexLowerCyrillicSh.Replace(message, "шшш");
+        // ШШШИПІТИ
+        message = RegexUpperCyrillicSh.Replace(message, "ШШШ");
+        // шшщука
+        message = RegexLowerCyrillicShch.Replace(message, "шшщ");
+        // ШШЩУКА
+        message = RegexUpperCyrillicShch.Replace(message, "ШШЩ");
+        // жшшнець
+        message = RegexLowerCyrillicZh.Replace(message, "жшш");
+        // ЖШШнець
+        message = RegexUpperCyrillicZh.Replace(message, "ЖШШ");
+        // Cheeburbr end
 
         args.Message = message;
     }

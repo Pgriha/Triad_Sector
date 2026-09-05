@@ -1,0 +1,14 @@
+# Лампи, які переливаються всіма кольорами райдуги. Компонент під це вже був, idk, чому це ніхто не зробив раніше
+- type: entity
+  parent: Poweredlight
+  id: BrbrPoweredlightRainbow
+  suffix: Сирбурбер, Райдужна
+  components:
+  - type: RgbLightController
+
+- type: entity
+  parent: PoweredSmallLight
+  id: BrbrPoweredSmallLightRainbow
+  suffix: Сирбурбер, Райдужна
+  components:
+  - type: RgbLightController

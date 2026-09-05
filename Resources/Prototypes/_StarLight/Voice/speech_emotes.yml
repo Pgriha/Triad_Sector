@@ -13,6 +13,8 @@
   chatTriggers:
   - whine
   - whines
+  - скавчить # Cheeburbr. До кінця прототипу
+  - скавчать
 
 - type: emote
   id: Yip
@@ -29,6 +31,8 @@
   chatTriggers:
   - yip
   - yips
+  - їпає # Cheeburbr. До кінця прототипу
+  - їпають
 
 - type: emote
   id: Scree
@@ -56,6 +60,8 @@
   - screes.
   - screes!
   - screes?
+  - чірікає # Cheeburbr. До кінця прототипу
+  - чірікають
 
 - type: emote
   id: Call
@@ -83,6 +89,10 @@
   - calls.
   - calls!
   - calls?
+  - співає # Cheeburbr. До кінця прототипу
+  - співають
+  - наспівує
+  - наспівають
 
 - type: emote
   id: Squawk
@@ -110,6 +120,12 @@
   - squawks.
   - squawks!
   - squawks?
+  - крякає # Cheeburbr. До кінця прототипу
+  - крякають
+  - кряче
+  - крячуть
+  - квакає
+  - квакають
 
 - type: emote
   id: Marr
@@ -132,3 +148,5 @@
   - marrs.
   - marrs!
   - marrs?
+  - марає # Cheeburbr. До кінця прототипу
+  - марають

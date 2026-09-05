@@ -1,29 +1,29 @@
 # Names
-delta-chat-emote-name-honk = Honk
-delta-chat-emote-name-ring = Ring
-delta-chat-emote-name-pew = Pew
-delta-chat-emote-name-bang = Bang
-delta-chat-emote-name-beep = Beep
-delta-chat-emote-name-rev = Rev
-delta-chat-emote-name-caw = Caw
-delta-chat-emote-name-bark = Bark
-delta-chat-emote-name-snarl = Snarl
-delta-chat-emote-name-whine = Whimper
-delta-chat-emote-name-howl = Howl
-delta-chat-emote-name-awoo = Awoo
-delta-chat-emote-name-gnash = Gnash
+delta-chat-emote-name-honk = Гонкати
+delta-chat-emote-name-ring = Дзвеніти
+delta-chat-emote-name-pew = Імітувати постріл
+delta-chat-emote-name-bang = Імітувати стукіт
+delta-chat-emote-name-beep = Біпати
+delta-chat-emote-name-rev = Гуркотіти
+delta-chat-emote-name-caw = Каркати
+delta-chat-emote-name-bark = Гавкати
+delta-chat-emote-name-snarl = Ричати
+delta-chat-emote-name-whine = Скиглити
+delta-chat-emote-name-howl = Вити
+delta-chat-emote-name-awoo = Підвивати
+delta-chat-emote-name-gnash = Скреготіти зубами
 
 # Triad: chatMessage keys for the above emotes (previously literal English in YAML)
 # Messages
-delta-chat-emote-msg-ring = rings.
-delta-chat-emote-msg-pew = pews.
-delta-chat-emote-msg-bang = bangs.
-delta-chat-emote-msg-rev = revs.
-delta-chat-emote-msg-caw = caws.
-delta-chat-emote-msg-bark = barks.
-delta-chat-emote-msg-snarl = snarls.
-delta-chat-emote-msg-whimper = whimpers.
-delta-chat-emote-msg-howl = howls.
-delta-chat-emote-msg-awoo = awoos.
-delta-chat-emote-msg-gnash = gnashes {POSS-ADJ($entity)} teeth.
+delta-chat-emote-msg-ring = дзвенить
+delta-chat-emote-msg-pew = стріляє!
+delta-chat-emote-msg-bang = стукає
+delta-chat-emote-msg-rev = гуркоче
+delta-chat-emote-msg-caw = каркає
+delta-chat-emote-msg-bark = гавкає!
+delta-chat-emote-msg-snarl = ричить!
+delta-chat-emote-msg-whimper = скиглить
+delta-chat-emote-msg-howl = виє!
+delta-chat-emote-msg-awoo = підвиває!
+delta-chat-emote-msg-gnash = скреготить зубами
 # End Triad

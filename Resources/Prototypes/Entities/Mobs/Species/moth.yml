@@ -26,7 +26,10 @@
     accent: zombieMoth
   - type: Speech
     speechVerb: Moth
-    allowedEmotes: ['Chitter', 'Squeak']
+    speechSounds: Moth # Cheeburbr. Перенесено з КД
+    allowedEmotes: ['Chitter', 'Squeak', 'Flap'] # Cheeburbr. Додано Flap
+  - type: BodyEmotes # Cheeburbr. Зроблено заради Flap, вже є в Білді візардів, як буде оновлення від них – видалити нашу
+    soundsId: СheeburbrMothBodyEmotes
   - type: LanguageKnowledge # Einstein Engines - Languages
     speaks:
     - TauCetiBasic

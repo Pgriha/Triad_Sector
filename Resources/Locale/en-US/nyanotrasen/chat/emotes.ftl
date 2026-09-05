@@ -4,11 +4,11 @@
 # Names
 # (chat-emote-name-growl and chat-emote-name-purr are defined in
 #  Resources/Locale/en-US/_Starlight/chat/emotes.ftl — do not redefine here.)
-chat-emote-name-meow = Meow
-chat-emote-name-mew = Mew
+chat-emote-name-meow = Нявкнути
+chat-emote-name-mew = Мєвкнути
 
 # Messages
-chat-emote-msg-meow = meows.
-chat-emote-msg-mew = mews.
-chat-emote-msg-growl = growls.
-chat-emote-msg-purr = purrs.
+chat-emote-msg-meow = нявкає
+chat-emote-msg-mew = мєвкає
+chat-emote-msg-growl = гарчить
+chat-emote-msg-purr = мурчить

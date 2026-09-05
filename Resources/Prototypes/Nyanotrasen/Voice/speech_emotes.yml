@@ -23,6 +23,8 @@
     - hissed
     - hissing.
     - hissed.
+    - шипить # Cheeburbr. До кінця прототипу
+    - шиплять
 
 - type: emote
   id: Meow
@@ -65,6 +67,18 @@
     - mraows.
     - mraows!
     - mraows~
+    - нявкає # Cheeburbr. До кінця прототипу
+    - нявкають
+    - нявчить
+    - нявчать
+    - мявчить
+    - мявчать
+    - мяукає
+    - мяукають
+    - мявкає
+    - мявкають
+    - нявкотить
+    - нявкотять
 
 - type: emote
   id: Mew
@@ -84,6 +98,8 @@
     - mews
     - mewing
     - mewed
+    - мєвкає  # Cheeburbr. До кінця прототипу
+    - мєвкають
 
 - type: emote
   id: Growl
@@ -103,6 +119,8 @@
     - growls
     - growling
     - growled
+    - гарчить # Cheeburbr. До кінця прототипу
+    - гарчать
 
 - type: emote
   id: Purr
@@ -122,3 +140,11 @@
     - purrs
     - purring
     - purred
+    - мурчить # Cheeburbr. До кінця прототипу
+    - мурчать
+    - мурликає
+    - мурличуть
+    - мурмоче
+    - мурмочуть
+    - муркоче
+    - муркочуть

@@ -1,0 +1,149 @@
+# Конфіг пресет з змінами під наші потреби, працює в парі з Монолітним. Для правильного застосування додайте у конфіг сервера:
+# [config]
+# presets = "_Mono/monolithCore,_Cheeburbr/CheeburbrCore"
+
+## Змінити під кожен сервер окремо
+[adminlogs]
+#Назва серверу у адмін нотатках
+server_name = "Бззз Тріадно-Монолітне"
+#high_log_playtime = -1 # Прибирання зайвих повідомлень адміністрації, але в Моноліті цього поки нема
+
+## Загальне-загальне
+[game]
+#Бр-бр-бр та вимкнення перевірки айпі
+hostname = "Cotton Cheeburbr"
+desc = "Ммм. . . Ну типу так? Ви зрозуміли. Бавовняний сирбурбер.\nВ цей раз Монолітуємо по Тріадські."
+soft_max_players = 20
+defaultpreset = "TriadStandard"
+fallbackpreset = "TriadStandard"
+maxcharacterslots = 50
+panic_bunker.enabled = false
+panic_bunker.enable_without_admins = false
+round_restart_time = 300
+lobbyduration = 300
+role_timers = false
+role_whitelist = false
+dynamic_roles.enabled = false
+ipintel_enabled = false
+current_year_offset = 802 # Triad
+
+[server]
+#Бр-бр-бр №2
+id = "CheerBurbr"
+rules_file = "СheeburbrOverview"
+lobby_name = "Сирбурбер"
+
+[rules]
+#Зменшення таймера на читання правил
+time = 15
+
+[chat]
+motd = "Вжвжвжвж?"
+
+[admin]
+# Адмін приколи
+admins_count_in_playercount = true
+see_own_notes = true
+deadmin_on_join = false
+server_ban_erase_player = true
+server_ban_hwid_ban_default = false
+chat_discord_channel_id = ""
+ahelp_discord_channel_id = ""
+dead_chat_discord_channel_id = ""
+
+[ic]
+#Описи та імена
+restricted_names = false
+flavor_text = true
+punctuation = false
+
+[movement]
+#КОЛІІІІІЗІЯ
+pushing_static = true # Можливість штовхати інших (чомусь вимкнена на Моноліті)
+mob_pushing = false # Я скурюся
+
+[atmos]
+space_wind = true # Як в оригіналі
+
+[shuttle]
+#Вимикає раундстарт спавн зайвих мап ваніли №1, зміни еваку та можливість ФТЛити великі шатли
+auto_call_time = 0
+preload_grids = false
+emergency_early_launch_allowed = true
+emergency_dock_time = 300
+emergency_transit_time_min = 120
+emergency_transit_time_max = 240
+mass_limit = -1
+
+[gateway]
+#Вимикає раундстарт спавн зайвих мап ваніли №2
+generator_enabled = false
+
+[procgen]
+#Вимикає раундстарт спавн зайвих мап ваніли №3
+preload = false
+
+# Triad починається
+[nf14.salvage]
+expedition_rewards_enabled = true
+
+[biomass]
+easy_mode = false
+# Triad закінчується
+
+[interaction]
+#Менше зайвих повідомлень адміністрації
+rate_limit_announce_admins_delay = -1
+
+[tips]
+#Поради нафіг
+dataset = ""
+
+[ooc]
+#ООС під час раундів
+enable_during_round = true
+discord_channel_id = ""
+
+[control]
+#Більше віконок
+storage_limit = 5
+
+[ahelp]
+#Ранги адміністрації в АХелпі (красівоє)
+admin_prefix = true
+admin_prefix_webhook = false
+
+[vote]
+autovote_enabled = false
+
+## Чисто технічне. Нема сенсу чипати
+[console]
+#Я завжди адмін
+loginlocal = true
+login_host_user = "Pgriha"
+
+[auth]
+#Під'єднання з лаунчерів
+mode = 1
+
+[log]
+#Логи
+path = "logs"
+format = "log_%(date)s-%(time)s.txt"
+level = 2
+enabled = false
+
+[net]
+#Технічне
+tickrate = 30
+port = 1212
+bindto = "::,0.0.0.0"
+max_connections = 50
+log_late_msg = false
+
+[hub]
+advertise = 0
+
+[infolinks]
+appeal = ""
+patreon = "https://savelife.in.ua/donate/#donate-army-card-once"

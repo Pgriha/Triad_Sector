@@ -7,7 +7,7 @@ using Robust.Shared.Utility;
 
 namespace Content.Server.Administration.Commands;
 
-[AdminCommand(AdminFlags.AdminWho)]
+[AnyCommand] // Cheeburbr. [AdminCommand(AdminFlags.AdminWho)] в оригіналі. Прибирання обмежень
 public sealed class AdminWhoCommand : IConsoleCommand
 {
     public string Command => "adminwho";

@@ -71,6 +71,16 @@ public sealed partial class SlurredSystem : SharedSlurredSystem
                     'a' => "ah",
                     'u' => "oo",
                     'c' => "k",
+                    // Cheeburbr start. Локалізація. Зроблено Pgriha за ідеєю France
+                    'а' => "аь",
+                    'з' => "зж",
+                    'ї' => "іі",
+                    'к' => "кх",
+                    'о' => "у",
+                    'с' => "сь",
+                    'у' => "ее",
+                    'я' => "йя",
+                    // Cheeburbr end
                     _ => $"{character}",
                 };
 
@@ -81,7 +91,7 @@ public sealed partial class SlurredSystem : SharedSlurredSystem
             {
                 if (character == ' ')
                 {
-                    sb.Append(Loc.GetString("slur-accent-confused"));
+                    sb.Append(Loc.GetString(_random.Pick(new List<string> { "slur-accent-confused-1", "slur-accent-confused-2", "slur-accent-confused-3"}))); // Cheeburbr. Локалізація, додано більше варіацій
                 }
                 else if (character == '.')
                 {

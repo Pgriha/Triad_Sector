@@ -1,0 +1,44 @@
+# Тут емоції перенесені з інших білдів, бо... Бо чому ні?
+# Англомовні трігери зроблені для тих, хто звик їми користуватися
+
+## Емоція перенесена з Губу, також була додана в білд Візардів, але біс зна, коли це буде перенесено в РМС. Тож, коли нарешті зроблять – видалити ось це
+- type: emote
+  id: Flap
+  name: cheeburbr-chat-emote-name-flap
+  category: Hands # Не дуже "руки", але до голосових їй ще далі
+  available: false
+  icon: _Cheeburbr/Interface/Emotes/flap.png
+  whitelist:
+    components:
+    - Hands
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["cheeburbr-chat-emote-msg-flap"]
+  chatTriggers:
+    - flap
+    - flaps
+    - flapped
+    - flapping
+    - flutter
+    - flutters
+    - fluttering
+    - fluttered
+    - flap wings
+    - flaps wings
+    - flutter wings
+    - flutters wings
+    - flaps his wings
+    - flaps her wings
+    - flaps their wings
+    - flaps its wings
+    - flutters his wings
+    - flutters her wings
+    - flutters their wings
+    - flutters its wings
+    - маше крилами
+    - машуть крилами
+    - трепушить крилами
+    - трепушать крилами
+    - тріпотить крилами
+    - тріпотять крилами

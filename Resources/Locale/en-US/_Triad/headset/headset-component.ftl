@@ -1,3 +1,3 @@
-chat-radio-tdf = TDF
-chat-radio-sd = Solarian Directive
+chat-radio-tdf = СОТ
+chat-radio-sd = Сонячна Деректива
 chat-radio-tic = TIC TACCOMM

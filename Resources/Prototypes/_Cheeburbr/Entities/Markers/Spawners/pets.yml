@@ -1,0 +1,15 @@
+# Я хочу її на мапи
+- type: entity
+  parent: MarkerBase
+  id: BrbrSpawnMobPoppy
+  name: Poppy Spawner
+  suffix: Сирбурбер, кому завгодно
+  components:
+  - type: Sprite
+    layers:
+    - state: green
+    - state: poppy
+      sprite: Mobs/Animals/possum.rsi
+  - type: ConditionalSpawner
+    prototypes:
+    - MobPossumPoppy

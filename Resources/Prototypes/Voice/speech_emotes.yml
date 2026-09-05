@@ -25,6 +25,18 @@
     - yells
     - yelled
     - yelling
+    - кричить # Cheeburbr. До кінця прототипу. Варіанти у множині для відповідного займеника
+    - кричать
+    - волає
+    - волають
+    - йойкає
+    - йойкають
+    - зойкає
+    - зойкають
+    - скрикує
+    - скрикують
+    - горланить
+    - горланять
 
 - type: emote
   id: Laugh
@@ -52,6 +64,19 @@
     - chortles
     - chortling
     - chortled # Frontier
+    - сміється # Cheeburbr. До кінця прототипу
+    - сміються
+    - хіхікає
+    - хіхікають
+    - хихикає
+    - хихикають
+    - регоче
+    - регочуть
+    - гигикає
+    - гигикають
+    - рже
+    - ржуть
+
 
 - type: emote
   id: Honk
@@ -69,6 +94,8 @@
     - honks
     - honked
     - honking
+    - гонкає # Cheeburbr. До кінця прототипу
+    - гонкають
 
 - type: emote
   id: Sigh
@@ -87,6 +114,8 @@
     - sighs
     - sighed
     - sighing # Frontier
+    - зітхає # Cheeburbr. До кінця прототипу
+    - зітхають
 
 - type: emote
   id: Whistle
@@ -105,6 +134,14 @@
     - whistles
     - whistleblowing
     - whistled # Frontier
+    - свистить # Cheeburbr. До кінця прототипу
+    - свистять
+    - насвистує
+    - насвистують
+    - присвистує
+    - присвистують
+    - висвистує
+    - висвистують
 
 - type: emote
   id: Crying
@@ -127,6 +164,25 @@
     - sobbing
     - sobbed # Frontier
     - cried # Frontier
+    - плаче # Cheeburbr. До кінця прототипу
+    - плачуть
+    - ридає
+    - ридають
+    - схлипує
+    - схлипають
+    - реве
+    - ревуть
+    - ллє сльози
+    - ллють сльози
+    - заливається слізьми
+    - заливаються слізьми
+    - рюмсає
+    - рюмсають
+    - ниє
+    - ниють
+    - хникає
+    - хникають
+    - хниче
 
 - type: emote
   id: Squish
@@ -146,6 +202,8 @@
     - squishing
     - squishes
     - squished # Frontier
+    - хлюпає # Cheeburbr. До кінця прототипу
+    - хлюпають
 
 - type: emote
   id: Chitter
@@ -165,6 +223,11 @@
    - chitters
    - chittered
    - chittering # Frontier
+   - стрекотить # Cheeburbr. До кінця прототипу
+   - скрекочуть
+   - стрекоче
+   - лопоче
+   - лопочуть
 
 - type: emote
   id: Squeak
@@ -184,6 +247,8 @@
    - squeaks
    - squeaked
    - squeaking # Frontier
+   - пищить # Cheeburbr. До кінця прототипу
+   - пищать
 
 - type: emote
   id: Click
@@ -203,6 +268,10 @@
    - clicks
    - clicked # Frontier
    - clicking # Frontier
+   - клікає # Cheeburbr. До кінця прототипу
+   - клікають
+   - клацає
+   - клацають
 
 # hand emotes
 - type: emote
@@ -221,6 +290,8 @@
     - claps
     - clapping
     - clapped
+    - аплодує # Cheeburbr. До кінця прототипу
+    - аплодують
 
 - type: emote
   id: ClapSingle
@@ -240,6 +311,8 @@
     - claps her hands together
     - claps his hands together
     - claps its hands together
+    - хлопає в долоні # Cheeburbr. До кінця прототипу
+    - хлопають в долоні
 
 - type: emote
   id: Snap
@@ -266,6 +339,10 @@
     - snaps its fingers
     - snapping fingers
     - snapped fingers
+    - ляскає пальцями # Cheeburbr. До кінця прототипу
+    - ляскають пальцями
+    - щолкає пальцями
+    - щолкають пальцями
 
 - type: emote
   id: Thump
@@ -291,6 +368,12 @@
     - thumps her tail
     - thumps his tail
     - thumps its tail
+    - гупає хвостом # Cheeburbr. До кінця прототипу
+    - гупають хвостом
+    - стукає хвостом
+    - стукають хвостом
+    - б'є хвостом
+    - б'ють хвостом
 
 - type: emote
   id: Salute
@@ -309,6 +392,10 @@
     - salutes
     - saluted # Frontier
     - saluting # Frontier
+    - салютує # Cheeburbr. До кінця прототипу
+    - салютують
+    - віддає честь
+    - віддають честь
 
 - type: emote
   id: Gasp
@@ -322,6 +409,8 @@
    - gasps
    - gasped
    - gasping # Frontier
+   - задихається # Cheeburbr. До кінця прототипу
+   - задихаються
 
 - type: emote
   id: DefaultDeathgasp
@@ -337,6 +426,14 @@
   chatMessages: ["chat-emote-msg-deathgasp"]
   chatTriggers: # Mono - D-V ready for some more 1984 - Readds deathgasp
     - deathgasp
+    - видає передсмертний подих # Cheeburbr. До кінця прототипу
+    - видають передсмертний подих
+    - помирає
+    - помирають
+    - вмирає
+    - вмирають
+    - спочиває навіки
+    - спочивають навіки
 
 - type: emote
   id: MonkeyDeathgasp
@@ -352,12 +449,15 @@
   chatMessages: ["chat-emote-msg-buzz"]
   whitelist: # Mono
     components:
+    - Silicon
     - BorgChassis
   chatTriggers:
     - buzzing
     - buzz
     - buzzed
     - buzzes
+    - бзижчить # Cheeburbr. До кінця прототипу
+    - бзижчать
 
 - type: emote
   id: Weh
@@ -395,6 +495,8 @@
     - chirps
     - chirped
     - chirping
+    - цвірінькає # Cheeburbr. До кінця прототипу
+    - цвірінькають
 
 # Machine Emotes
 - type: emote
@@ -412,6 +514,8 @@
     - beeps
     - beeped
     - beeping
+    - біпає # Cheeburbr. До кінця прототипу
+    - біпають
 
 - type: emote
   id: Chime
@@ -428,6 +532,8 @@
     - chimes
     - chimed
     - chiming
+    - визвонює # Cheeburbr. До кінця прототипу
+    - визвонюють
 
 - type: emote
   id: Buzz-Two
@@ -451,6 +557,10 @@
     - buzzing twice
     - buzzed twice
     - buzzedtwice # Frontier
+    - двічі бзижчить # Cheeburbr. До кінця прототипу
+    - двічі бзижчать
+    - бзижчить двічі
+    - бзижчать двічі
 
 - type: emote
   id: Ping
@@ -467,3 +577,5 @@
     - pings
     - pinged
     - pinging
+    - пінгує # Cheeburbr. До кінця прототипу
+    - пінгують

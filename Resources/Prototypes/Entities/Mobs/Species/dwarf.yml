@@ -51,7 +51,7 @@
   - type: DwarfAccent # Triad: promoted from data-only ReplacementAccent to the Dwarven Brogue engine
   - type: Speech
     speechSounds: Bass
-    allowedEmotes: ['Belch'] # Frontier
+#    allowedEmotes: ['Belch'] # Frontier – Cheeburbr. Нахуя
   - type: LanguageKnowledge # Einstein Engines - Languages
     speaks:
     - TauCetiBasic

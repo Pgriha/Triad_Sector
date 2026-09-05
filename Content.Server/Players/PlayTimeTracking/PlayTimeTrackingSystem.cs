@@ -75,11 +75,13 @@ public sealed partial class PlayTimeTrackingSystem : EntitySystem
             return;
 
         if (_adminManager.IsAdmin(player))
-        {
+// Cheeburbr start. Прибирає обмеження рахувалей часу в адмінці
+//        {
             trackers.Add(PlayTimeTrackingShared.TrackerAdmin);
-            trackers.Add(PlayTimeTrackingShared.TrackerOverall);
-            return;
-        }
+//            trackers.Add(PlayTimeTrackingShared.TrackerOverall);
+//            return;
+//        }
+// Cheeburbr end
 
         if (!IsPlayerAlive(player))
             return;

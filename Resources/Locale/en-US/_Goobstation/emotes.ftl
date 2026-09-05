@@ -1,20 +1,20 @@
-chat-emote-name-spin = Spin
-chat-emote-name-jump = Jump
-chat-emote-msg-spin = spins!
-chat-emote-msg-jump = jumps!
+chat-emote-name-spin = Крутитися
+chat-emote-name-jump = Стрибнути
+chat-emote-msg-spin = крутиться!
+chat-emote-msg-jump = стрибає!
 
 # Names
-chat-emote-name-trill = Trill
-chat-emote-name-warble = Warble
-chat-emote-name-wurble = Wurble
+chat-emote-name-trill = Трелювати
+chat-emote-name-warble = Тьохкати
+chat-emote-name-mars = Маркати
 # Triad: orphaned Goobstation key (no prototype references it); commented out, not deleted, so upstream merges surface it
 # chat-emote-name-mars = Mars
-chat-emote-name-bagawk = Bagawk
+chat-emote-name-bagawk = Кудахкати
 
 # Message
-chat-emote-msg-trill = trills!
-chat-emote-msg-warble = warbles!
-chat-emote-msg-wurble = wurbles!
+chat-emote-msg-trill = трелить!
+chat-emote-msg-warble = тьохкає!
+chat-emote-msg-wurble = вурчить
 # Triad: orphaned Goobstation key (no prototype references it); commented out, not deleted, so upstream merges surface it
 # chat-emote-msg-mars = mars.
-chat-emote-msg-bagawk = bagawks!
+chat-emote-msg-bagawk = кудахкає!

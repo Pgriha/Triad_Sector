@@ -17,6 +17,8 @@
     - ringing
     - ringed
     - rang
+    - дзвенить # Cheeburbr. До кінця прототипу
+    - дзвенять
 
 - type: emote
   id: HarpyPew
@@ -34,6 +36,8 @@
     - pew
     - pews
     - pewpew
+    - піукає # Cheeburbr. До кінця прототипу
+    - піукають
 
 - type: emote
   id: HarpyBang
@@ -52,6 +56,10 @@
     - bangs
     - banging
     - banged
+    - стріляє # Cheeburbr. До кінця прототипу
+    - стріляють
+    - імітує звуки постріла
+    - імітують звуки пострілу
 
 - type: emote
   id: HarpyRev
@@ -70,6 +78,8 @@
     - revs
     - revving
     - revved
+    - гуркоче # Cheeburbr. До кінця прототипу
+    - гуркочуть
 
 - type: emote
   id: HarpyCaw
@@ -88,6 +98,8 @@
     - caws
     - cawing
     - cawed
+    - каркає # Cheeburbr. До кінця прототипу
+    - каркають
 
 #Vulpkanin
 - type: emote
@@ -107,6 +119,12 @@
     - barks
     - barked
     - barking
+    - гавкає # Cheeburbr. До кінця прототипу
+    - гавкають
+    - гавчить
+    - гавчать
+    - тявкає
+    - тявкають
 
 - type: emote
   id: Snarl
@@ -125,6 +143,10 @@
     - snarls
     - snarled
     - snarling
+    - ричить # Cheeburbr. До кінця прототипу
+    - ричать
+    - огризається
+    - огризаються
 
 - type: emote
   id: Whimper # Starlight / Monolith: Renamed to whimper
@@ -143,6 +165,8 @@
     - whimpers
     - whimpered
     - whimpering
+    - скиглить # Cheeburbr. До кінця прототипу
+    - скиглять
 
 - type: emote
   id: Howl
@@ -161,6 +185,8 @@
     - howls
     - howling
     - howled
+    - виє # Cheeburbr. До кінця прототипу
+    - виють
 
 - type: emote
   id: Awoo
@@ -179,6 +205,10 @@
     - awoos
     - awooing
     - awooed
+    - підвиває # Cheeburbr. До кінця прототипу
+    - підвивають
+    - авукає
+    - авукають
 
 # Feroxi
 - type: emote
@@ -214,3 +244,15 @@
     - gnashed her teeth
     - gnashed his teeth
     - gnashed its teeth
+    - скреготить # Cheeburbr. До кінця прототипу
+    - скреготять
+    - скрежетить
+    - скрежетять
+    - скрежетить зубами
+    - скережетять зубами
+    - скреготить зубами
+    - скреготять зубами
+    - скреготить своїми зубами
+    - скреготять своїми зубами
+    - скрежетить своїми зубами
+    - скрежетять своїми зубами

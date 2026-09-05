@@ -1,0 +1,25 @@
+- type: entity
+  parent: MarkerBase
+  id: BrbrPlushieMoffRandom
+  name: спавнер випадкової плюшевої ніани
+  suffix: Сирбурбер, Випадкова
+  placement:
+    mode: PlaceFree
+  components:
+  - type: Transform
+    anchored: false
+  - type: Sprite
+    sprite: _Cheeburbr/Objects/Fun/Plushies/Moffs/Miriadea/base.rsi
+    state: all_plushies
+  - type: RandomSpawner
+    offset: 0
+    prototypes:
+      - BrbrPlushieMoffMiriadeya
+      - BrbrPlushieMoffMiriadeyaBar
+      - BrbrPlushieMoffMiriadeyaScience
+      - BrbrPlushieMoffMirka
+      - BrbrPlushieMoffMirkaBar
+      - BrbrPlushieMoffMirkaService
+      - BrbrPlushieMoffRanch
+      - BrbrPlushieMoffRanchBar
+      - BrbrPlushieMoffRanchBotanic

@@ -1,0 +1,19 @@
+- type: emoteSounds
+  id: СheeburbrMothBodyEmotes
+  sounds:
+    Clap:
+      collection: Claps
+    ClapSingle:
+      collection: ClapSingle
+    Snap:
+      collection: Snaps
+      params:
+        volume: -6
+    Salute:
+      collection: Salutes
+    Crack: # Imp
+      collection: Cracks # Imp
+    Flap:
+      path: /Audio/_Cheeburbr/Voice/Moth/moth_flap.ogg
+      params:
+        variation: 0.125
