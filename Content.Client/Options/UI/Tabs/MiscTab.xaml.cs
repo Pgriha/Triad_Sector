@@ -1,5 +1,6 @@
 using System.Linq;
 using Content.Client.UserInterface.Screens;
+using Content.Shared._RMC14.CCVar; // Cheeburbr. Портована з РМС авто пунктуація у клієнта
 using Content.Shared._Mono.CCVar;
 using Content.Shared.CCVar;
 using Content.Shared.HUD;
@@ -59,6 +60,7 @@ public sealed partial class MiscTab : Control
         Control.AddOptionCheckBox(MonoCVars.RadioNoiseEnabled, RadioNoiseCheckBox); // Mono
         Control.AddOptionCheckBox(MonoCVars.AreaEchoEnabled, AreaEchoCheckBox); // Mono
         Control.AddOptionCheckBox(MonoCVars.AreaEchoHighResolution, AreaEchoHighResolutionCheckBox); // Mono
+        Control.AddOptionCheckBox(RMCCVars.RMCAutoPunctuate, RMCAutoPunctuate);  // Cheeburbr. Портована з РМС авто пунктуація у клієнта
 
         Control.Initialize();
     }

@@ -5,7 +5,7 @@
     requirement:
       !type:DepartmentTimeRequirement
       department: Security
-      time: 180000 # 50 hrs
+      time: 36000 # Cheeburbr. 10 годин, 50 в оригіналі
 
 - type: loadoutEffectGroup
   id: MonoCivRogueDefector
@@ -14,7 +14,7 @@
     requirement:
       !type:DepartmentTimeRequirement
       department: Antag
-      time: 180000 # 50 hrs
+      time: 36000 # Cheeburbr. 10 годин, 50 в оригіналі
 
 - type: loadoutEffectGroup
   id: MonoCivVet
@@ -23,7 +23,7 @@
     requirement:
       !type:DepartmentTimeRequirement
       department: Civilian
-      time: 180000 # 50 hrs
+      time: 36000 # Cheeburbr. 10 годин, 50 в оригіналі
 
 - type: loadoutEffectGroup
   id: MonoCivSkilled
@@ -32,7 +32,7 @@
     requirement:
       !type:DepartmentTimeRequirement
       department: Civilian
-      time: 360000 # 100 hrs
+      time: 72000 # Cheeburbr. 20 годин, 100 в оригіналі
 
 - type: loadoutEffectGroup
   id: MonoCivPro
@@ -41,4 +41,4 @@
     requirement:
       !type:DepartmentTimeRequirement
       department: Civilian
-      time: 1800000 # 500 hrs - ultimate flex
+      time: 180000 # Cheeburbr. 50 годин, 500 в оригіналі – "ультимативний флекс"

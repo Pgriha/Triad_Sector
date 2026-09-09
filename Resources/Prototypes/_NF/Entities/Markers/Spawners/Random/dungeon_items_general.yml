@@ -497,6 +497,7 @@
     - VendingMachineArcadia
     # - VendingMachineSyndieDrobe # A bit less Syndicate loot
     - VendingMachineSyndieContraband
+    - VendingMachineCentDrobe # Cheeburbr
     rareChance: 0.03 # actually rare vs. entry frequencies
 
 - type: entity
@@ -544,6 +545,7 @@
     - VendingMachineSyndieDrobe #Mono in
     - VendingMachineSyndieContraband
     - SpawnDungeonMachineFrame
+    - VendingMachineCentDrobe # Cheeburbr
     rareChance: 0.03
 
 - type: entity
@@ -578,6 +580,7 @@
     - VendingMachineSec
     - VendingMachineArcadia
     - SpawnDungeonMachineFrame
+    - VendingMachineCentDrobe # Cheeburbr
     rareChance: 0.03
 
 - type: entity
@@ -1071,6 +1074,7 @@
     rarePrototypes:
     - AmmoTechFabFlatpack
 #    - VendingMachineSyndieContrabandFlatpack # A bit less Syndicate loot
+    - VendingMachineCentDrobe # Cheeburbr
     rareChance: 0.05
 
 - type: entity

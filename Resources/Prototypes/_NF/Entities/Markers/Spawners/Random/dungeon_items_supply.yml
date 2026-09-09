@@ -251,6 +251,7 @@
     - VendingMachineSyndieContraband
     - VendingMachineSyndieDrobe
     - VendingMachineArcadia
+    - VendingMachineCentDrobe # Cheeburbr
     rareChance: 0.01
 
 # Other

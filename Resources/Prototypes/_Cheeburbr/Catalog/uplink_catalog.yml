@@ -1,0 +1,11 @@
+# Ну так, питання?
+- type: listing
+  id: BrbrUplinkCollarSyndicate
+  name: cheeburbr-uplink-collar-syndicate-name
+  description: cheeburbr-uplink-collar-syndicate-desc
+  productEntity: ClothingNeckCollarSyndi
+  icon: { sprite: Floof/Clothing/Neck/collar_syndi.rsi, state: icon }
+  cost:
+    Telecrystal: 10
+  categories:
+    - UplinkPointless

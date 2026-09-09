@@ -472,6 +472,24 @@
       collection: MothDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start. Більше звуків й емоцій
+#    Gulp:
+#      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+#    Surprised:
+#      path: /Audio/_Goobstation/Voice/surprised.ogg
+    Yawn:
+      path: /Audio/_Starlight/Voice/Moth/moth_yawn.ogg
+    Snore:
+      collection: Snores
+    Sigh:
+      path: /Audio/_Starlight/Voice/Moth/moth_sigh.ogg
+    Crying:
+      path: /Audio/_Starlight/Voice/Moth/moth_cry.ogg
+    Whistle:
+      collection: Whistles
+    Cough:
+      path: /Audio/_Starlight/Voice/Moth/moth_cough.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: UnisexSilicon

@@ -22,7 +22,7 @@ public sealed partial class MainMenuControl : Control
         LayoutContainer.SetMarginTop(VBox, 30);
         LayoutContainer.SetGrowHorizontal(VBox, LayoutContainer.GrowDirection.Begin);
 
-        var logoTexture = resCache.GetResource<TextureResource>("/Textures/_Triad/Logo/logo.png"); // Triad: added Triad logo to main menu
+        var logoTexture = resCache.GetResource<TextureResource>("/Textures/_Cheeburbr/Logo/logo.png"); // Cheeburbr. Замінено на "наше" лого
         Logo.Texture = logoTexture;
 
         var currentUserName = configMan.GetCVar(CVars.PlayerName);

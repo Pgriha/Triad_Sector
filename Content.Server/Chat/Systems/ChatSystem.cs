@@ -14,6 +14,7 @@ using Content.Server.Speech.Prototypes;
 using Content.Server.Speech.EntitySystems;
 using Content.Server.Station.Components;
 using Content.Server.Station.Systems;
+using Content.Shared._RMC14.CCVar; // Cheeburbr. Портована з РМС авто пунктуація у клієнта
 using Content.Shared.ActionBlocker;
 using Content.Shared.Administration;
 using Content.Shared.CCVar;
@@ -73,6 +74,7 @@ public sealed partial class ChatSystem : SharedChatSystem
     [Dependency] private DiscordChatLink _discordLink = default!;
     [Dependency] private LanguageSystem _language = default!; // Einstein Engines - Language
     [Dependency] private CollectiveMindUpdateSystem _collectiveMind = default!; // Goobstation - Starlight collective mind port
+    [Dependency] private INetConfigurationManager _netConfigManager = default!; // Cheeburbr. Портована з РМС авто пунктуація у клієнта
 
     public const int VoiceRange = 10; // how far voice goes in world units
     public const int WhisperClearRange = 2; // how far whisper goes while still being understandable, in world units
@@ -238,7 +240,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         var language = languageOverride ?? _language.GetLanguage(source); // Einstein Engines - Language
 
         bool shouldCapitalize = (desiredType is not (InGameICChatType.Emote or InGameICChatType.Subtle)); // Floofstation edit
-        bool shouldPunctuate = _configurationManager.GetCVar(CCVars.ChatPunctuation);
+        bool shouldPunctuate = _configurationManager.GetCVar(CCVars.ChatPunctuation) || player != null && _netConfigManager.GetClientCVar(player.Channel, RMCCVars.RMCAutoPunctuate); // Cheeburbr. Портована з РМС авто пунктуація у клієнта
         // Capitalizing the word I only happens in English, so we check language here
         bool shouldCapitalizeTheWordI = (!CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Parent.Name == "en")
             || (CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Name == "en");

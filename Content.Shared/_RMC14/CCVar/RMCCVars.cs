@@ -23,5 +23,9 @@ public sealed class RMCCVars : CVars
 
     public static readonly CVarDef<float> RMCGunPredictionAabbEnlargement =
         CVarDef.Create("rmc.gun_prediction_aabb_enlargement", 0.3f, CVar.SERVER | CVar.REPLICATED);
+
+    public static readonly CVarDef<bool> RMCAutoPunctuate =
+        CVarDef.Create("rmc.auto_punctuate", false, CVar.REPLICATED | CVar.CLIENT | CVar.ARCHIVE); // Cheeburbr. Портована нами авто пунктуація у клієнта
+
 }
 

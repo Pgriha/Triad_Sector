@@ -16,11 +16,11 @@ namespace Content.Shared.Construction.Conditions
             var tagSystem = sysMan.GetEntitySystem<TagSystem>();
             var turfSystem = sysMan.GetEntitySystem<TurfSystem>();
 
-            foreach (var entity in turfSystem.GetEntitiesInTile(location, LookupFlags.Static))
-            {
-                if (tagSystem.HasTag(entity, "Window"))
-                    return false;
-            }
+//            foreach (var entity in turfSystem.GetEntitiesInTile(location, LookupFlags.Static)) – Cheeburbr. Хуйово працює
+//            {
+//                if (tagSystem.HasTag(entity, "Window"))
+//                    return false;
+//            }
 
             return true;
         }

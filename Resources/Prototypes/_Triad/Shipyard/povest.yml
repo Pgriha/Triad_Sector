@@ -6,20 +6,20 @@
 # Shuttle Notes:
 #
 
-- type: vessel
-  id: Povest
-  parent: BaseVessel
-  name: PDM Povest
-  description: A medium sized library shuttle, some books included.
-  price: 49920
-  category: Medium
-  group: Shipyard
-  shuttlePath: /Maps/_Triad/Shuttles/povest.yml
-  #guidebookPage: null
-  class:
-  - Civilian
-  engine:
-  - Uranium
+#- type: vessel – Cheeburbr. ІдІ нахуй
+#  id: Povest
+#  parent: BaseVessel
+#  name: PDM Povest
+#  description: A medium sized library shuttle, some books included.
+#  price: 49920
+#  category: Medium
+#  group: Shipyard
+#  shuttlePath: /Maps/_Triad/Shuttles/povest.yml
+#  #guidebookPage: null
+#  class:
+#  - Civilian
+#  engine:
+#  - Uranium
 
 - type: gameMap
   id: Povest

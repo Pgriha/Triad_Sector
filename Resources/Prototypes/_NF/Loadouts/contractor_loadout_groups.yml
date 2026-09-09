@@ -724,6 +724,17 @@
   - ContractorClothingNeckMantleBH # Mono
   - ContractorClothingNeckCloakSanabi # Mono
   - ContractorClothingNeckUIOvercoat # Mono
+  # Cheeburbr start
+  - BrbrContractorClothingNeckBellCollar
+  - BrbrContractorClothingNeckCollarBlue
+  - BrbrContractorClothingNeckCollarBlack
+  - BrbrContractorClothingNeckCollarEpi
+  - BrbrContractorClothingNeckCollarEngi
+  - BrbrContractorClothingNeckCollarLogi
+  - BrbrContractorClothingNeckCollarMed
+  - BrbrContractorClothingNeckCollarSec
+  - BrbrContractorClothingNeckCollarCmd
+  # Cheeburbr end
 
 - type: loadoutGroup
   id: ContractorPDA

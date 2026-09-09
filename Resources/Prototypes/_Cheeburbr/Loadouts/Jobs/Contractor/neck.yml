@@ -1,0 +1,53 @@
+- type: loadout
+  id: BrbrContractorClothingNeckBellCollar
+  price: 0
+  equipment:
+    neck: ClothingNeckBellCollar
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarBlue
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarBlue
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarBlack
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarBlack
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarEpi
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarEpi
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarEngi
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarEngi
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarLogi
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarLogi
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarMed
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarMed
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarSec
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarSec
+
+- type: loadout
+  id: BrbrContractorClothingNeckCollarCmd
+  price: 0
+  equipment:
+    neck: ClothingNeckCollarCmd

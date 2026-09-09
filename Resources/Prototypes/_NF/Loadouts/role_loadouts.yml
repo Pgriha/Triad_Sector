@@ -213,6 +213,7 @@
   - ContractorFirearm # Mono
   - ContractorMag # Mono
   - ContractorArmorPlates # Mono
+  - CivGunCaseSpecial # Cheeburbr
 
 # Triad - Moved to _Triad/Loadouts/role_loadouts.yml
 #- type: roleLoadout
@@ -269,3 +270,4 @@
   - ContractorBureaucracy
   - NFSpeciesSpecific
   - ContractorArmorPlates # Mono
+  - CivGunCaseSpecial # Cheeburbr
