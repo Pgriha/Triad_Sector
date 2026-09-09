@@ -20,6 +20,9 @@
   - StationRepTrinkets
   - ContractorBureaucracy
   - NFSpeciesSpecific
+  - MercenaryFirearm # Cheeburbr
+  - MercenaryPistol # Cheeburbr
+  - MercenaryMag # Cheeburbr
   - ContractorArmorPlates
   - CivGunCaseSpecial # Cheeburbr
 
@@ -46,6 +49,9 @@
   - ContractorTrinkets
   - ContractorBureaucracy
   - NFSpeciesSpecific
+  - MercenaryFirearm # Cheeburbr
+  - MercenaryPistol # Cheeburbr
+  - MercenaryMag # Cheeburbr
   - CivGunCaseSpecial # Cheeburbr
 
 # The Sector Technician is station-engineer tier. No ID group, keeps the plant ID from starting gear.
@@ -70,6 +76,8 @@
   - ContractorTrinkets
   - ContractorBureaucracy
   - NFSpeciesSpecific
+  - ContractorFirearm # Cheeburbr
+  - ContractorMag # Cheeburbr
   - CivGunCaseSpecial # Cheeburbr
 
 # These are admin only roles, but they need a rudimentary loadout so that they do not spawn naked if the jobs are spawned by admins

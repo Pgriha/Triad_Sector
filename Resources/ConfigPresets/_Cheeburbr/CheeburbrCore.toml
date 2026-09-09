@@ -42,6 +42,7 @@ motd = "Вжвжвжвж?"
 
 [admin]
 # Адмін приколи
+allow_multi_server_play = true
 admins_count_in_playercount = true
 see_own_notes = true
 deadmin_on_join = false
@@ -50,6 +51,12 @@ server_ban_hwid_ban_default = false
 chat_discord_channel_id = ""
 ahelp_discord_channel_id = ""
 dead_chat_discord_channel_id = ""
+new_player_threshold = 0 # Всі вже не нові
+
+[admin.alert]
+# Менше зайвих адмін повідомлень
+min_players_sharing_connection = -1
+explosion_min_intensity = -1
 
 [ic]
 #Описи та імена
