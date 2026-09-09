@@ -49,6 +49,12 @@
       path: /Audio/_Moffstation/Voice/Resomi/resomi_whistle.ogg # Triad, moffstation sounds
     Chirp:
       collection: ResomiChirp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleAvali
@@ -99,7 +105,12 @@
       path: /Audio/_Moffstation/Voice/Resomi/resomi_whistle.ogg # Triad, moffstation sounds
     Chirp:
       collection: ResomiChirp
-
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MaleShadekin
@@ -142,6 +153,12 @@
       collection: FelionoidPurrs
     Growl:
       collection: FelionoidGrowls
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleShadekin
@@ -184,3 +201,9 @@
       collection: FelionoidPurrs
     Growl:
       collection: FelionoidGrowls
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end

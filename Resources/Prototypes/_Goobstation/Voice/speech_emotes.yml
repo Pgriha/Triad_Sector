@@ -88,3 +88,48 @@
     - bawks
     - кудахкає # Cheeburbr. До кінця прототипу
     - кудахкають
+
+# Cheeburbr start
+- type: emote
+  id: Gulp
+  name: chat-emote-name-gulp
+  category: Vocal
+  icon: _Goobstation/Interface/Emotes/gulp.png
+  whitelist:
+    components:
+    - Vocal
+  blacklist:
+   components:
+   - BorgChassis
+  chatMessages: ["chat-emote-msg-gulp"]
+  chatTriggers:
+    - gulps
+    - gulp
+    - сковтує # Cheeburbr. До кінця прототипу
+    - сковтують
+    - сковтує слину
+    - сковтують слину
+    - сковтує свою слину
+    - сковтують свою слину
+
+- type: emote
+  id: Surprised
+  name: chat-emote-name-surprised
+  category: Vocal
+  icon: _Goobstation/Interface/Emotes/surprised.png
+  whitelist:
+    components:
+    - Vocal
+  chatMessages: ["chat-emote-msg-surprised"]
+  chatTriggers:
+    - looks surprised
+    - is surprised
+    - exclamation marks
+    - exclamation mark
+    - виглядає здивовано # Cheeburbr. До кінця прототипу
+    - виглядають здивовано
+    - здивований
+    - здивована
+    - здивовано
+    - здивовані
+# Cheeburbr end

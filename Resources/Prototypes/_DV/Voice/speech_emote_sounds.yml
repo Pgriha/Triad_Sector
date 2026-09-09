@@ -82,6 +82,12 @@
       collection: Belch # Frontier
     Squish: # Frontier
       collection: HarpySquishes # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MaleVulpkanin
@@ -134,6 +140,12 @@
       collection: VulpkaninYips
     Whine:
       collection: VulpkaninWhines  # Starlight / Monolith - yip & whine ]
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleVulpkanin
@@ -186,6 +198,12 @@
       collection: VulpkaninYips
     Whine:
       collection: VulpkaninWhines  # Starlight / Monolith - yip & whine ]
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MobDog
@@ -206,6 +224,12 @@
       collection: VulpkaninHowls
     Awoo:
       collection: VulpkaninHowls
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MaleRodentia
@@ -244,6 +268,12 @@
       collection: MaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleRodentia
@@ -282,6 +312,12 @@
       collection: FemaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: UnisexChitinid
@@ -316,6 +352,12 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MothDeathGasp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MaleFeroxi
@@ -352,6 +394,12 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleFeroxi
@@ -388,3 +436,9 @@
       collection: FemaleGasp
     DefaultDeathgasp:
       collection: FemaleDeathGasp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end

@@ -44,6 +44,12 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleFelinid
@@ -90,3 +96,9 @@
       collection: FemaleGasp
     DefaultDeathgasp:
       collection: FemaleDeathGasp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end

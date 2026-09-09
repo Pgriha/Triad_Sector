@@ -43,6 +43,12 @@
       collection: Warble
     Wurble:
       collection: Wurble
-    Bagawk: 
+    Bagawk:
       collection: Bagawk
     # Monolith - End
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end

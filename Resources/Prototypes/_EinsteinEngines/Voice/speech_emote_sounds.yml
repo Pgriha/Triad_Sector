@@ -63,3 +63,9 @@
       collection: IPCWhirrs
       params:
         variation: 0
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end

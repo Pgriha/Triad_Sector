@@ -42,6 +42,12 @@
       collection: GoblinMutterCollection
     GoblinThroatSinging:
       collection: GoblinThroatSingingCollection
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleGoblin
@@ -86,6 +92,12 @@
       collection: GoblinMutterCollection
     GoblinThroatSinging:
       collection: GoblinThroatSingingCollection
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: Cat

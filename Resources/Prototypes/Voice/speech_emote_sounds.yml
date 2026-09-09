@@ -42,6 +42,12 @@
       collection: MaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleHuman
@@ -86,6 +92,12 @@
       collection: FemaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MaleReptilian
@@ -118,6 +130,12 @@
       collection: DeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: FemaleReptilian
@@ -150,6 +168,12 @@
       collection: FemaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: MaleSlime
@@ -198,6 +222,12 @@
       collection: MaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
   params:
     variation: 0.125
 
@@ -248,6 +278,12 @@
       collection: FemaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
   params:
     variation: 0.125
 
@@ -302,6 +338,12 @@
       collection: VoxChitter
     Hiss: #imp
       collection: VoxHiss
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
   params:
     variation: 0.125
 
@@ -326,6 +368,12 @@
       collection: DeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
   params:
     variation: 0.125
 
@@ -354,6 +402,12 @@
       collection: DeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: emoteSounds
   id: UnisexDwarf
@@ -396,6 +450,12 @@
       collection: MaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
   params:
     variation: 0.125
     pitch: 0.75
@@ -441,6 +501,12 @@
       collection: FemaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
   params:
     variation: 0.125
     pitch: 0.75
@@ -473,10 +539,10 @@
     Belch: # Frontier
       collection: Belch # Frontier
     # Cheeburbr start. Більше звуків й емоцій
-#    Gulp:
-#      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
-#    Surprised:
-#      path: /Audio/_Goobstation/Voice/surprised.ogg
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
     Yawn:
       path: /Audio/_Starlight/Voice/Moth/moth_yawn.ogg
     Snore:
@@ -584,6 +650,10 @@
       collection: Salutes
     Crack: # Imp
       collection: Cracks # Imp
+    # Cheeburbr start
+    Blink: # Imp
+      collection: Blinks # Imp
+    # Cheebirbr end
 
 - type: emoteSounds
   id: DionaBodyEmotes
@@ -603,6 +673,10 @@
        volume: -5
     Crack: # Imp
       collection: Cracks # Imp
+    # Cheeburbr start
+    Blink: # Imp
+      collection: Blinks # Imp
+    # Cheebirbr end
 
 - type: emoteSounds
   id: ReptilianBodyEmotes
@@ -623,6 +697,10 @@
       collection: Salutes
     Crack: # Imp
       collection: Cracks # Imp
+    # Cheeburbr start
+    Blink: # Imp
+      collection: Blinks # Imp
+    # Cheebirbr end
 
 # mobs
 - type: emoteSounds

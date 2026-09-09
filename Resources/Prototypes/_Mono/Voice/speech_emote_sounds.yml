@@ -26,6 +26,12 @@
       collection: HydrakinWhistle
     DefaultDeathgasp:
       collection: HydrakinDeathgasp
+    # Cheeburbr start
+    Gulp:
+      path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Surprised:
+      path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Cheeburbr end
 
 - type: speechSounds
   id: Hydrakin
