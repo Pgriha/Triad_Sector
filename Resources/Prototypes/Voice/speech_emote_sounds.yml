@@ -532,8 +532,8 @@
       collection: Hew
     Honk:
       collection: BikeHorn
-    Gasp:
-      collection: MaleGasp
+    Gasp: # Cheeburbr
+      path: /Audio/_Starlight/Voice/Moth/moth_gasp.ogg
     DefaultDeathgasp:
       collection: MothDeathGasp
     Belch: # Frontier
