@@ -12,7 +12,7 @@ server_name = "Бззз Тріадно-Монолітне"
 [game]
 #Бр-бр-бр та вимкнення перевірки айпі
 hostname = "Cotton Cheeburbr"
-desc = "Ммм. . . Ну типу так? Ви зрозуміли. Бавовняний сирбурбер.\nВ цей раз Монолітуємо по Тріадські."
+desc = "Ммм. . . Ну, типу, так? Ви зрозуміли. Бавовняний сирбурбер.\nВ цей раз Монолітуємо по Тріадські."
 soft_max_players = 20
 defaultpreset = "TriadStandard"
 fallbackpreset = "TriadStandard"
@@ -31,7 +31,7 @@ current_year_offset = 802 # Triad
 #Бр-бр-бр №2
 id = "CheerBurbr"
 rules_file = "СheeburbrOverview"
-lobby_name = "Сирбурбер"
+lobby_name = "Бавовняний Сирбурбер"
 
 [rules]
 #Зменшення таймера на читання правил
