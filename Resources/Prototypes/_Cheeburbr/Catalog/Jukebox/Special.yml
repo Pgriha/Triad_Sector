@@ -1,0 +1,14 @@
+# Тута щось *особливе*
+- type: jukebox
+  id: Kit_Meidochka_Bosanska_artiljerija
+  name: "[NEW BRBR SPC] Bosanska artiljerija"
+  artist: Кіт Мейдочка та Боснія # Той самий, так-так
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Special/Кіт-Мейдочка_Артилерія.ogg"
+
+- type: jukebox
+  id: Moths_Fortunate_Son
+  name: "[NEW BRBR SPC] Fobzzunate ZZZon"
+  artist: Молі # А це справжній діамант
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Special/Молі_Fortunate-Son.ogg"

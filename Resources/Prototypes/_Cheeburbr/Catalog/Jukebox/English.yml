@@ -1,0 +1,434 @@
+# Тута англомовна та інша *не наша* музика
+- type: jukebox
+  id: Alexandra_Stan_Mr_Saxobeat_Radio_Edit
+  name: "[BRBR ENG] Mr Saxobeat"
+  artist: Alexandra Stan
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Alexandra_Stan_Mr_Saxobeat_Radio_Edit.ogg"
+
+- type: jukebox
+  id: Azumi_Takahashi_Lotus_Juice_It_s_Going_Down_Now
+  name: "[BRBR ENG] It's Going Down Now"
+  artist: Azumi Takahashi & Lotus Juice
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Azumi_Takahashi_Lotus_Juice_It_s_Going_Down_Now.ogg"
+
+- type: jukebox
+  id: Bandits_Motion_Picture_Soundtrack_Bonnie_Tyler_Holding_Out_For_A_Hero
+  name: "[BRBR ENG] Holding Out For A Hero"
+  artist: Bonnie Tyler
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Bandits_Motion_Picture_Soundtrack_Bonnie_Tyler_Holding_Out_For_A_Hero.ogg"
+
+- type: jukebox
+  id: Betta_Lemme_Bambola
+  name: "[BRBR ENG] Bambola"
+  artist: Betta Lemme
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Betta_Lemme_Bambola.ogg"
+
+- type: jukebox
+  id: Billy_Idol_Eyes_Without_A_Face_Remastered_1999
+  name: "[BRBR ENG] Eyes Without A Face"
+  artist: Billy Idol
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Billy_Idol_Eyes_Without_A_Face_Remastered_1999.ogg"
+
+- type: jukebox
+  id: Black_Sabbath_Lady_Evil
+  name: "[BRBR ENG] Lady Evil"
+  artist: Black Sabbath
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Black_Sabbath_Lady_Evil.ogg"
+
+- type: jukebox
+  id: Britney_Spears_Baby_One_More_Time
+  name: "[BRBR ENG] Baby One More Time"
+  artist: Britney Spears
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Britney_Spears_Baby_One_More_Time.ogg"
+
+- type: jukebox
+  id: Calogero_Passi_Face_a_la_mer
+  name: "[BRBR ENG] Face a la mer"
+  artist: Calogero & Passi
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Calogero_Passi_Face_a_la_mer.ogg"
+
+- type: jukebox
+  id: Coldplay_Adventure_of_a_Lifetime
+  name: "[BRBR ENG] Adventure of a Lifetime"
+  artist: Coldplay
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Coldplay_Adventure_of_a_Lifetime.ogg"
+
+- type: jukebox
+  id: David_Guetta_Bebe_Rexha_J_Balvin_Say_My_Name
+  name: "[BRBR ENG] Say My Name"
+  artist: David Guetta, Bebe Rexha & J Balvin
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/David_Guetta_Bebe_Rexha_J_Balvin_Say_My_Name.ogg"
+
+- type: jukebox
+  id: Depeche_Mode_Personal_Jesus
+  name: "[BRBR ENG] Personal Jesus"
+  artist: Depeche Mode
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Depeche_Mode_Personal_Jesus.ogg"
+
+- type: jukebox
+  id: Dr_Phonics_Code_Red
+  name: "[BRBR ENG] Code Red"
+  artist: Dr Phonics
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Dr_Phonics_Code_Red.ogg"
+
+- type: jukebox
+  id: Duran_Duran_INVISIBLE
+  name: "[BRBR ENG] INVISIBLE"
+  artist: Duran Duran
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Duran_Duran_INVISIBLE.ogg"
+
+- type: jukebox
+  id: Elton_John_I_m_Still_Standing
+  name: "[BRBR ENG] I'm Still Standing"
+  artist: Elton John
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Elton_John_I_m_Still_Standing.ogg"
+
+- type: jukebox
+  id: Eurythmics_Annie_Lennox_Dave_Stewart_Sweet_Dreams_Are_Made_of_This
+  name: "[BRBR ENG] Sweet Dreams Are Made of This"
+  artist: Eurythmics
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Eurythmics_Annie_Lennox_Dave_Stewart_Sweet_Dreams_Are_Made_of_This.ogg"
+
+- type: jukebox
+  id: Every_Move_A_Picture_Signs_Of_Life_Demo
+  name: "[BRBR ENG] Signs Of Life"
+  artist: Every Move A Picture
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Every_Move_A_Picture_Signs_Of_Life_Demo.ogg"
+
+- type: jukebox
+  id: Fasion_Dansez
+  name: "[BRBR ENG] Dansez"
+  artist: Fasion
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Fasion_Dansez.ogg"
+
+- type: jukebox
+  id: Flo_Rida_Whistle
+  name: "[BRBR ENG] Whistle"
+  artist: Flo Rida
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Flo_Rida_Whistle.ogg"
+
+- type: jukebox
+  id: Gary_Numan_ME
+  name: "[BRBR ENG] ME"
+  artist: Gary Numan
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Gary_Numan_ME.ogg"
+
+- type: jukebox
+  id: Gary_Numan_Tubeway_Army_Are_Friends_Electric
+  name: "[BRBR ENG] Are Friends Electric"
+  artist: Gary Numan & Tubeway Army
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Gary_Numan_Tubeway_Army_Are_Friends_Electric.ogg"
+
+- type: jukebox
+  id: Grand_Corps_Malade_Julie_Berthollet_Camille_Berthollet_Chemins_de_traverse
+  name: "[BRBR ENG] Chemins de traverse"
+  artist: Grand Corps Malade & Berthollet
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Grand_Corps_Malade_Julie_Berthollet_Camille_Berthollet_Chemins_de_traverse.ogg"
+
+- type: jukebox
+  id: Gwen_Stefani_Akon_The_Sweet_Escape
+  name: "[BRBR ENG] The Sweet Escape"
+  artist: Gwen Stefani & Akon
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Gwen_Stefani_Akon_The_Sweet_Escape.ogg"
+
+- type: jukebox
+  id: Hieroglyphics_Let_It_Roll
+  name: "[BRBR ENG] Let It Roll"
+  artist: Hieroglyphics
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Hieroglyphics_Let_It_Roll.ogg"
+
+- type: jukebox
+  id: Howlin_Jackson_Jelly_Roll_Blues
+  name: "[BRBR ENG] Jelly Roll Blues"
+  artist: Howlin Jackson
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Howlin_Jackson_Jelly_Roll_Blues.ogg"
+
+- type: jukebox
+  id: Infected_Mushroom_Never_Mind_Liquid_Stranger_Remix
+  name: "[BRBR ENG] Never Mind"
+  artist: Infected Mushroom
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Infected_Mushroom_Never_Mind_Liquid_Stranger_Remix.ogg"
+
+- type: jukebox
+  id: Jan_Valta_Adam_Sporka_Rattay_Feasts
+  name: "[BRBR ENG] Rattay Feasts"
+  artist: Jan Valta & Adam Sporka
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Jan_Valta_Adam_Sporka_Rattay_Feasts.ogg"
+
+- type: jukebox
+  id: Journey_Who_s_Crying_Now_2022_Remaster
+  name: "[BRBR ENG] Who's Crying Now"
+  artist: Journey
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Journey_Who_s_Crying_Now_2022_Remaster.ogg"
+
+- type: jukebox
+  id: Justin_Bieber_Ludacris_Baby
+  name: "[BRBR ENG] Baby"
+  artist: Justin Bieber & Ludacris
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Justin_Bieber_Ludacris_Baby.ogg"
+
+- type: jukebox
+  id: Katy_Perry_I_Kissed_A_Girl
+  name: "[BRBR ENG] I Kissed A Girl"
+  artist: Katy Perry
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Katy_Perry_I_Kissed_A_Girl.ogg"
+
+- type: jukebox
+  id: Lady_Gaga_The_Dead_Dance
+  name: "[BRBR ENG] The Dead Dance"
+  artist: Lady Gaga
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Lady_Gaga_The_Dead_Dance.ogg"
+
+- type: jukebox
+  id: Maneskin_Beggin
+  name: "[BRBR ENG] Beggin"
+  artist: Maneskin
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Maneskin_Beggin.ogg"
+
+- type: jukebox
+  id: Masayoshi_Takanaka_Brasilian_Skies
+  name: "[BRBR ENG] Brasilian Skies"
+  artist: Masayoshi Takanaka
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Masayoshi_Takanaka_Brasilian_Skies.ogg"
+
+- type: jukebox
+  id: Michael_Jackson_Rock_With_You
+  name: "[BRBR ENG] Rock With You"
+  artist: Michael Jackson
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Michael_Jackson_Rock_With_You.ogg"
+
+- type: jukebox
+  id: Midge_Ure_The_Man_Who_Sold_the_World_2010_Remaster
+  name: "[BRBR ENG] The Man Who Sold the World"
+  artist: Midge Ure
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Midge_Ure_The_Man_Who_Sold_the_World_2010_Remaster.ogg"
+
+- type: jukebox
+  id: NA_Michael_Sembello_-_Maniac_From_Flashdance_Official_Audio
+  name: "[BRBR ENG] Maniac From Flashdance"
+  artist: Michael Sembello
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/NA_Michael_Sembello_-_Maniac_From_Flashdance_Official_Audio.ogg"
+
+- type: jukebox
+  id: NA_Minako_Yoshida_-_Midnight_Driver_Official_Audio
+  name: "[BRBR ENG] Midnight Driver"
+  artist: Minako Yoshida
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/NA_Minako_Yoshida_-_Midnight_Driver_Official_Audio.ogg"
+
+- type: jukebox
+  id: NA_Mittsies_-_Vitality
+  name: "[BRBR ENG] Vitality"
+  artist: Mittsies
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/NA_Mittsies_-_Vitality.ogg"
+
+- type: jukebox
+  id: NA_Questionable_-_Slightly_Stoopid
+  name: "[BRBR ENG] Slightly Stoopid"
+  artist: Questionable
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/NA_Questionable_-_Slightly_Stoopid.ogg"
+
+- type: jukebox
+  id: NA_Tame_Impala_-_The_Less_I_Know_The_Better_Audio
+  name: "[BRBR ENG] The Less I Know The Better"
+  artist: Tame Impala
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/NA_Tame_Impala_-_The_Less_I_Know_The_Better_Audio.ogg"
+
+- type: jukebox
+  id: NA_Wolfmother_-_Love_Train_Audio
+  name: "[BRBR ENG] Love Train"
+  artist: Wolfmother
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/NA_Wolfmother_-_Love_Train_Audio.ogg"
+
+- type: jukebox
+  id: Paul_Kalkbrenner_Stromae_QUE_CE_SOIT_CLAIR
+  name: "[BRBR ENG] Que ce soit clair"
+  artist: Paul Kalkbrenner & Stromae
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Paul_Kalkbrenner_Stromae_QUE_CE_SOIT_CLAIR.ogg"
+
+- type: jukebox
+  id: ROSE_Bruno_Mars_APT
+  name: "[BRBR ENG] APT"
+  artist: Rose & Bruno Mars
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/ROSE_Bruno_Mars_APT.ogg"
+
+- type: jukebox
+  id: Selena_Gomez_The_Scene_Love_You_Like_A_Love_Song
+  name: "[BRBR ENG] Love You Like A Love Song"
+  artist: Selena Gomez & The Scene
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Selena_Gomez_The_Scene_Love_You_Like_A_Love_Song.ogg"
+
+- type: jukebox
+  id: Sheryl_Crow_Real_Gone
+  name: "[BRBR ENG] Real Gone"
+  artist: Sheryl Crow
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Sheryl_Crow_Real_Gone.ogg"
+
+- type: jukebox
+  id: Shihoko_Hirata_Heartbeat_Heartbreak
+  name: "[BRBR ENG] Heartbeat Heartbreak"
+  artist: Shihoko Hirata
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Shihoko_Hirata_Heartbeat_Heartbreak.ogg"
+
+- type: jukebox
+  id: Spandau_Ballet_Gold_2022_Remix
+  name: "[BRBR ENG] Gold"
+  artist: Spandau Ballet
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Spandau_Ballet_Gold_2022_Remix.ogg"
+
+- type: jukebox
+  id: Stromae_Sante
+  name: "[BRBR ENG] Sante"
+  artist: Stromae
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Stromae_Sante.ogg"
+
+- type: jukebox
+  id: Suuns_Up_Past_The_Nursery
+  name: "[BRBR ENG] Up Past The Nursery"
+  artist: Suuns
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Suuns_Up_Past_The_Nursery.ogg"
+
+- type: jukebox
+  id: Synapson_Oumou_Sangare_Bensema_feat_Oumou_Sangare
+  name: "[BRBR ENG] Bensema"
+  artist: Synapson & Oumou Sangare
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Synapson_Oumou_Sangare_Bensema_feat_Oumou_Sangare.ogg"
+
+- type: jukebox
+  id: Synapson_Tim_Dup_Lass_Toujours_feat_Tim_Dup_Lass
+  name: "[BRBR ENG] Toujours"
+  artist: Synapson, Tim Dup & Lass
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Synapson_Tim_Dup_Lass_Toujours_feat_Tim_Dup_Lass.ogg"
+
+- type: jukebox
+  id: The_Chords_Sh-Boom
+  name: "[BRBR ENG] Sh-Boom"
+  artist: The Chords
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/The_Chords_Sh-Boom.ogg"
+
+- type: jukebox
+  id: The_RAH_Band_Messages_From_The_Stars
+  name: "[BRBR ENG] Messages From The Stars"
+  artist: The RAH Band
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/The_RAH_Band_Messages_From_The_Stars.ogg"
+
+- type: jukebox
+  id: The_Temptations_Ain_t_No_Sun_Since_You_ve_Been_Gone
+  name: "[BRBR ENG] Ain't No Sun Since You've Been Gone"
+  artist: The Temptations
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/The_Temptations_Ain_t_No_Sun_Since_You_ve_Been_Gone.ogg"
+
+- type: jukebox
+  id: The_Temptations_Ball_Of_Confusion_That_s_What_The_World_Is_Today
+  name: "[BRBR ENG] Ball Of Confusion"
+  artist: The Temptations
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/The_Temptations_Ball_Of_Confusion_That_s_What_The_World_Is_Today.ogg"
+
+- type: jukebox
+  id: Twisted_Sister_King_of_the_Fools
+  name: "[BRBR ENG] King of the Fools"
+  artist: Twisted Sister
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Twisted_Sister_King_of_the_Fools.ogg"
+
+- type: jukebox
+  id: Various_Artists_Bosanska_artiljerija
+  name: "[BRBR ENG] Bosanska artiljerija"
+  artist: Народна Пісня
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Various_Artists_Bosanska_artiljerija.ogg"
+
+- type: jukebox
+  id: White_Zombie_I_m_Your_Boogieman
+  name: "[BRBR ENG] I'm Your Boogieman"
+  artist: White Zombie
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/White_Zombie_I_m_Your_Boogieman.ogg"
+
+- type: jukebox
+  id: Woodkid_Iron
+  name: "[BRBR ENG] Iron"
+  artist: Woodkid
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Woodkid_Iron.ogg"
+
+- type: jukebox
+  id: jan_valta_adam_sporka_rattay_feasts
+  name: "[BRBR ENG] Rattay Feasts"
+  artist: Jan Valta & Adam Sporka
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Jan_Valta_Adam_Sporka_Rattay_Feasts.ogg"
+
+- type: jukebox
+  id: Franz_Ferdinand_This_Fire
+  name: "[NEW BRBR ENG] This Fire"
+  artist: Franz Ferdinand
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Franz-Ferdinand_This Fire.ogg"
+
+- type: jukebox
+  id: Joan_Baez_Heres_To_You
+  name: "[NEW BRBR ENG] Here's to you"
+  artist: Joan Baez
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Here's to you (feat. Joan Baez).ogg"
+
+- type: jukebox
+  id: Lemon_Demon_The_Ultimate_Showdown
+  name: "[NEW BRBR ENG] The Ultimate Showdown"
+  artist: Lemon Demon
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/English/Lemon-Demon_The-Ultimate-Showdown.ogg"

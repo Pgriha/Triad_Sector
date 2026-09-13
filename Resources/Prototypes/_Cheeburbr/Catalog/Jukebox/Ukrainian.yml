@@ -1,0 +1,161 @@
+# Тута українська музика
+- type: jukebox
+  id: TIK_Zapakh_Viiny
+  name: "[BRBR UKR] Запах Війни"
+  artist: ТІК
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Запах війни.ogg"
+
+- type: jukebox
+  id: TNML_Molodets
+  name: "[BRBR UKR] Молодець"
+  artist: ТНМК
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Молодець.ogg"
+
+- type: jukebox
+  id: Skver_Vilni
+  name: "[BRBR UKR] Вільні"
+  artist: Сквер
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Вільні.ogg"
+
+- type: jukebox
+  id: Mad_Heads_XL_Probky
+  name: "[BRBR UKR] Пробки"
+  artist: Mad Heads XL
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Mad Heads XL - Пробки.ogg"
+
+- type: jukebox
+  id: DZIDZIO_Pavuk
+  name: "[NEW BRBR UKR] Павук"
+  artist: DZIDZIO
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/DZIDZIO_Павук.ogg"
+
+- type: jukebox
+  id: SadSvit_Kaseta
+  name: "[NEW BRBR UKR] Касета"
+  artist: SadSvit
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/SadSvit - Касета.ogg"
+
+- type: jukebox
+  id: VERKA_SERDUCHKA_Hop_Hop_Hop
+  name: "[NEW BRBR UKR] Гоп-Гоп-Гоп"
+  artist: VERKA SERDUCHKA
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/VERKA SERDUCHKA — Гоп-Гоп-Гоп.ogg"
+
+- type: jukebox
+  id: ZWYNTAR_Tantsiui_I_Pyy
+  name: "[NEW BRBR UKR] Танцюй І Пий"
+  artist: ZWYNTAR
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/ZWYNTAR - Танцюй І Пий.ogg"
+
+- type: jukebox
+  id: Alhololizm
+  name: "[NEW BRBR UKR] Алкоголізм"
+  artist: ТІК
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Алкоголізм.ogg"
+
+- type: jukebox
+  id: Bukhlo_deluxe
+  name: "[NEW BRBR UKR] Бухло"
+  artist: Жадан і Собаки
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Бухло (deluxe).ogg"
+
+- type: jukebox
+  id: Verka_Serdiuchka_Lasha_Tumbai
+  name: "[NEW BRBR UKR] Lasha-Tumbai"
+  artist: VERKA SERDUCHKA
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Верка-Сердючка_Lasha-Tumbai.ogg"
+
+- type: jukebox
+  id: Voseny
+  name: "[NEW BRBR UKR] Восени"
+  artist: ТНМК
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Восени.ogg"
+
+- type: jukebox
+  id: Vosmyi_kolir
+  name: "[NEW BRBR UKR] Восьмий колір"
+  artist: Мотор'Ролла
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Восьмий колір.ogg"
+
+- type: jukebox
+  id: Oleksandr_Ponomarov_Himn_Ukrainy
+  name: "[NEW BRBR UKR] Гімн України"
+  artist: П. Чубинський та М. Вербицький у виконанні О. Панамарьова
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Гімн-України_Олександр Пономарьов.ogg"
+
+- type: jukebox
+  id: Yshov_ya_nebom
+  name: "[NEW BRBR UKR] Йшов я небом"
+  artist: ВІЙ
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Йшов я небом.ogg"
+
+- type: jukebox
+  id: VIA_Kvartyrnyk_Kateryna
+  name: "[NEW BRBR UKR] Катерина"
+  artist: ВІА Квартирник
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Катерина - ВІА _Квартирник_ та Віктор Морозов.ogg"
+
+- type: jukebox
+  id: Kobzon_deluxe
+  name: "[NEW BRBR UKR] Кобзон"
+  artist: Жадан і Собаки
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Кобзон (deluxe).ogg"
+
+- type: jukebox
+  id: Malvy_deluxe
+  name: "[NEW BRBR UKR] Мальви"
+  artist: Жадан і Собаки
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Мальви (deluxe).ogg"
+
+- type: jukebox
+  id: Ne_dzvonyla_ne_zakhodyla
+  name: "[NEW BRBR UKR] Не дзвонила, не заходила"
+  artist: Мотор'Ролла
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Не дзвонила, не заходила.ogg"
+
+- type: jukebox
+  id: Oy_khto_pie_tomu_nalyvayte
+  name: "[NEW BRBR UKR] Ой, хто п'є, тому наливайте"
+  artist: LIL OLKO
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Ой, хто п'є, тому наливайте - gachi remix.ogg"
+
+- type: jukebox
+  id: Skriabin_Kolorova
+  name: "[NEW BRBR UKR] Кольорова"
+  artist: Кузьма Скрябін
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Скрябін - Кольорова.ogg"
+
+- type: jukebox
+  id: Chervona_ruta
+  name: "[NEW BRBR UKR] Червона рута"
+  artist: Володимир Івасюк
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Червона рута.ogg"
+
+- type: jukebox
+  id: Yurkesh_Mundial
+  name: "[NEW BRBR UKR] Мундіаль"
+  artist: Юркеш
+  path:
+    path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Юркеш - Мундіаль.ogg"

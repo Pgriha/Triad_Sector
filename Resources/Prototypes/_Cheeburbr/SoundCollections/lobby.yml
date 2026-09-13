@@ -1,0 +1,12 @@
+# Чисто наше. Думаю змінювати під кожен збір
+- type: soundCollection
+  id: BrbrLobbyMusic
+  files:
+    - "/Audio/_Cheeburbr/Jukebox/English/Maneskin_Beggin.ogg"
+    - "/Audio/_Cheeburbr/Jukebox/English/Britney_Spears_Baby_One_More_Time.ogg"
+    - "/Audio/_Cheeburbr/Jukebox/English/Here's to you (feat. Joan Baez).ogg"
+    - "/Audio/_Cheeburbr/Jukebox/Ukrainian/Гімн-України_Олександр Пономарьов.ogg"
+    - "/Audio/_Cheeburbr/Jukebox/Ukrainian/ZWYNTAR - Танцюй І Пий.ogg"
+    - "/Audio/_Cheeburbr/Jukebox/Ukrainian/Мальви (deluxe).ogg"
+    - "/Audio/_Cheeburbr/Jukebox/Ukrainian/Mad Heads XL - Пробки.ogg"
+    - "/Audio/_Cheeburbr/Jukebox/Special/Молі_Fortunate-Son.ogg"
